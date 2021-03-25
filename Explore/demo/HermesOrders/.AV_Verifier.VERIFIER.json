@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "j7VkBBeE7YWidIkdOPkXgs",
+    "name" : "AV_Verifier",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "j7VkBBeE7YWidIkdOPkXgs"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
